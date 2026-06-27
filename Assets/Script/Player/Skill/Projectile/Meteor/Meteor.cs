@@ -24,7 +24,7 @@ public class Meteor : MonoBehaviour
         {
             enemyData enemy = other.GetComponent<enemyData>();
             if (enemy != null) { 
-                enemy.TakeDamage(playerSkill.skillDamage);  // langsung dari meteor.asset!
+                enemy.TakeDamage(playerSkill.skillDamage); 
             }
             if (!TurnManager.Instance.CheckBattleEnd()) { 
                 TurnManager.Instance.StartEnemyTurn();
