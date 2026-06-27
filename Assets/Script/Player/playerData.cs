@@ -37,6 +37,7 @@ public class playerData : MonoBehaviour
 
         animation.SetTrigger(skill.skillName);
     }
+    //dipakai di TurnManager
     public void OnattackEnd()
     {
         if (!TurnManager.Instance.CheckBattleEnd())
@@ -58,6 +59,7 @@ public class playerData : MonoBehaviour
         }
 
     }
+    //untuk spawn di last position abis battle
     public void LastPosition()
     {
         if (SceneManager.GetActiveScene().name != "BattleScene")
@@ -66,7 +68,7 @@ public class playerData : MonoBehaviour
                 transform.position = GameManager.Instance.playerLastPosition;
         }
     }
-
+    //status player
     public bool IsDead()
     {
         return currentHealth <= 0;
