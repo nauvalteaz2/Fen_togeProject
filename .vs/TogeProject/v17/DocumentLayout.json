@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityProject\\TogeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\so\\player\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\so\\player\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|d:\\unityproject\\togeproject\\assets\\script\\system\\enemyencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\enemyencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\enemy\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\enemy\\slime\\mleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\slime\\mleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\player\\skill\\mlee\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\skill\\mlee\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\battlesceneenemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\battlesceneenemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\player\\skill\\projectile\\meteor\\projectilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\skill\\projectile\\meteor\\projectilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\player\\skill\\projectile\\meteor\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\skill\\projectile\\meteor\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\worldenemyinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\worldenemyinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\so\\enemy\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\so\\enemy\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\so\\enemy\\enemyskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\so\\enemy\\enemyskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\skillbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\skillbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\dialogue\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialogue\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\cutscene\\cutscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cutscene\\cutscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\doors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\doors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\npc\\npcfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\npc\\npcfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\so\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\so\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\dialogue\\dialogueevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialogue\\dialogueevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unityProject\\irengV2\\Assets\\Script\\Session_Script\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\system\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\dialogue\\introdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialogue\\introdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|D:\\unityProject\\TogeProject\\assets\\script\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEF9928-75F2-70B5-4894-F14D259F63C6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\NPC\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NPC\\NPCController.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\NPC\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Script\\NPC\\NPCController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:40:30.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Basic.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Mlee\\Basic.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Skill\\Mlee\\Basic.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Mlee\\Basic.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Skill\\Mlee\\Basic.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:38:36.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\Event.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Dialogue\\Event.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\Event.cs",
+              "RelativeToolTip": "Assets\\Script\\Dialogue\\Event.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:34:10.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Doors.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\Doors.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\Doors.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\Doors.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\Doors.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T12:22:05.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NPCFollow.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\NPC\\NPCFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NPC\\NPCFollow.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\NPC\\NPCFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\NPC\\NPCFollow.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T09:32:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InteractAble.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\InteractAble.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\InteractAble.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\InteractAble.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\InteractAble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:37:24.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CutsceneController.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Cutscene\\CutsceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cutscene\\CutsceneController.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Cutscene\\CutsceneController.cs",
+              "RelativeToolTip": "Assets\\Script\\Cutscene\\CutsceneController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:03:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DialogueEvents.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\DialogueEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Dialogue\\DialogueEvents.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\DialogueEvents.cs",
+              "RelativeToolTip": "Assets\\Script\\Dialogue\\DialogueEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T12:25:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\Spawner.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:09:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IntroDialogue.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\IntroDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Dialogue\\IntroDialogue.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Dialogue\\IntroDialogue.cs",
+              "RelativeToolTip": "Assets\\Script\\Dialogue\\IntroDialogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T10:24:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorldEnemyInstance.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\WorldEnemyInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\WorldEnemyInstance.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\WorldEnemyInstance.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\WorldEnemyInstance.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:32:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\TurnManager.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\TurnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwFIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:11:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemySkillData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Enemy\\EnemySkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SO\\Enemy\\EnemySkillData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Enemy\\EnemySkillData.cs",
+              "RelativeToolTip": "Assets\\Script\\SO\\Enemy\\EnemySkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:21:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MleeAttack.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Enemy\\Slime\\MleeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Slime\\MleeAttack.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Enemy\\Slime\\MleeAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Slime\\MleeAttack.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:17:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\Meteor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\Meteor.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\Meteor.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\Meteor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T18:49:20.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectileSpawner.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\ProjectileSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\ProjectileSpawner.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\ProjectileSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Skill\\Projectile\\Meteor\\ProjectileSpawner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T18:46:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\unityProject\\irengV2\\Assets\\Script\\Session_Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "..\\irengV2\\Assets\\Script\\Session_Script\\CameraFollow.cs",
+              "ToolTip": "D:\\unityProject\\irengV2\\Assets\\Script\\Session_Script\\CameraFollow.cs",
+              "RelativeToolTip": "..\\irengV2\\Assets\\Script\\Session_Script\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:47:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\HealthBar.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\HealthBar.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:05:24.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BattleSceneEnemySpawner.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\BattleSceneEnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\BattleSceneEnemySpawner.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\BattleSceneEnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\BattleSceneEnemySpawner.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T18:33:10.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\GameManager.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\GameManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T18:20:27.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enemyData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Enemy\\enemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\enemyData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Enemy\\enemyData.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\enemyData.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T02:14:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Enemy\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SO\\Enemy\\EnemyData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Enemy\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\Script\\SO\\Enemy\\EnemyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T02:10:51.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkillButton.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\SkillButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\SkillButton.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\SkillButton.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\SkillButton.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T13:26:39.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\BattleManager.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\BattleManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T13:11:36.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Player\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SO\\Player\\PlayerData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Player\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Script\\SO\\Player\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T08:23:23.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Player\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SO\\Player\\SkillData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\SO\\Player\\SkillData.cs",
+              "RelativeToolTip": "Assets\\Script\\SO\\Player\\SkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T08:19:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyEncounter.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\EnemyEncounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\EnemyEncounter.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\System\\EnemyEncounter.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\EnemyEncounter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:21:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Camera\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\CameraFollow.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Camera\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:45:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:30:44.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playerData.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\playerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\playerData.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\Player\\playerData.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\playerData.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:26:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\unityProject\\TogeProject\\Assets\\Script\\UI\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\MainMenuUI.cs",
+              "ToolTip": "D:\\unityProject\\TogeProject\\Assets\\Script\\UI\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\MainMenuUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:57:10.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
