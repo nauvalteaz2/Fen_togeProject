@@ -12,7 +12,7 @@ public class ProjectileSpawner : MonoBehaviour
         player = GetComponent<playerData>();
     }
 
-    // Animation Event panggil ini
+    // Spawn Projectile if skill was projectile for animation event
     public void OnSpawnProjectile()
     {
         SkillData skill = player.currentSkill;
