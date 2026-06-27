@@ -30,25 +30,22 @@ public class PlayerController : MonoBehaviour
     }
     private void Interact()
     {
-        // Guard Clause: Jika Player sedang dalam posisi tidak bisa bergerak (misal: sedang ngobrol),
         // abaikan input tombol interaksi agar tidak memicu dialog ganda atau tumpang tindih.
         if (!CanMove) return;
 
-        // Buat lingkaran imajiner di sekitar koordinat Player untuk mendeteksi Collider terdekat
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, interactRadius);
 
         foreach (Collider2D collider in colliders)
         {
-            // SAKTI: Cek apakah Game Object yang terkena lingkaran memiliki kontrak IInteractable
+            // Cek apakah Game Object yang terkena lingkaran memiliki kontrak IInteractable
             Interactable interactableObject = collider.GetComponent<Interactable>();
 
             if (interactableObject != null)
             {
-                // Jika ketemu, langsung jalankan fungsi Interact milik objek tersebut!
-                // (Bisa memicu dialog Fungus warga, membuka peti, pintu, dll)
+                // (interface interact untuk objek yang mempunyai script nya)
                 interactableObject.Interact();
 
-                break; // Keluar dari perulangan agar hanya berinteraksi dengan 1 objek terdekat saja
+                break; 
             }
         }
     }
